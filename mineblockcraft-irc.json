@@ -3,7 +3,7 @@
   "init" : 90,
   "note" : "defull",
   "pack" : "",
-  "pe1" : 3600,
-  "pe2" : 5400,
+  "pe1" : 1090,
+  "pe2" : 1120,
   "status" : true
 } ]
